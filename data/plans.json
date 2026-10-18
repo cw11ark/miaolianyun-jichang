@@ -1,0 +1,104 @@
+{
+ "status": "success",
+ "data": [
+  {
+   "name": "150G/月 年付活动",
+   "transfer_enable": 150,
+   "month_price": null,
+   "quarter_price": null,
+   "half_year_price": null,
+   "year_price": 11800,
+   "onetime_price": null,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "220G/月 年付活动",
+   "transfer_enable": 220,
+   "month_price": null,
+   "quarter_price": null,
+   "half_year_price": null,
+   "year_price": 16800,
+   "onetime_price": null,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "Air 120G",
+   "transfer_enable": 120,
+   "month_price": 800,
+   "quarter_price": 2400,
+   "half_year_price": 4800,
+   "year_price": 9600,
+   "onetime_price": null,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "Base 220G",
+   "transfer_enable": 220,
+   "month_price": 1500,
+   "quarter_price": 4500,
+   "half_year_price": 9000,
+   "year_price": 18000,
+   "onetime_price": null,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "Pro 320G",
+   "transfer_enable": 320,
+   "month_price": 2200,
+   "quarter_price": 6600,
+   "half_year_price": 13200,
+   "year_price": 26200,
+   "onetime_price": null,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "Max 520G",
+   "transfer_enable": 520,
+   "month_price": 2800,
+   "quarter_price": 8200,
+   "half_year_price": 16200,
+   "year_price": 32000,
+   "onetime_price": null,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "120G不限时",
+   "transfer_enable": 120,
+   "month_price": null,
+   "quarter_price": null,
+   "half_year_price": null,
+   "year_price": null,
+   "onetime_price": 3800,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "320G不限时",
+   "transfer_enable": 320,
+   "month_price": null,
+   "quarter_price": null,
+   "half_year_price": null,
+   "year_price": null,
+   "onetime_price": 7800,
+   "speed_limit": 160,
+   "device_limit": null
+  },
+  {
+   "name": "980G不限时",
+   "transfer_enable": 980,
+   "month_price": null,
+   "quarter_price": null,
+   "half_year_price": null,
+   "year_price": null,
+   "onetime_price": 19800,
+   "speed_limit": 160,
+   "device_limit": null
+  }
+ ]
+}
