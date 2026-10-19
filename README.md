@@ -1,4 +1,4 @@
-# 秒连云机场｜8 元/月 120G（2026-10-18 更新）
+# 秒连云机场｜8 元/月 120G（2026-10-19 更新）
 
 > **一句话评价：省心之选：全部节点连通、1 倍计费无套路，导入即用**
 >
@@ -85,7 +85,7 @@
 <details>
 <summary>更多机场测评</summary>
 
-- [机场对比总览](https://github.com/REPLACE_OWNER/jichang-tuijian-2026)
-- [赛博云 测评](https://github.com/REPLACE_OWNER/saiboyun-jichang)
-- [赔钱机场 测评](https://github.com/REPLACE_OWNER/peiqian-jichang)
+- [机场对比总览](https://github.com/cw11ark/jichang-tuijian-2026)
+- [赛博云 测评](https://github.com/cw11ark/saiboyun-jichang)
+- [赔钱机场 测评](https://github.com/cw11ark/peiqian-jichang)
 </details>
